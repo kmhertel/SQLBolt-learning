@@ -1,4 +1,4 @@
-# SQLBolt-learning
+# SQLBolt-learning (VIEW IN CODE MODE)
 
 SQL allows both technical and non-technical users to query, manipulate and transform data from a relational database. popular
 SQL model is like an excel table
